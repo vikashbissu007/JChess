@@ -1,5 +1,6 @@
-#JChess
-#####A simple lightweight Chess game written in Java.
+# JChess
+
+##### A simple lightweight Chess game written in Java.
 
 ![Welcome Screen](screenshots/welcome-screen.png)
 
